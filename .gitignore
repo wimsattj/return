@@ -1,0 +1,5 @@
+#sensitive data
+.env.local
+.env.production.local
+#system files
+
